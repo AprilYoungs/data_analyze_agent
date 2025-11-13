@@ -56,7 +56,6 @@ The two agents work in a sequential process, with the output of the first agent 
 
 Second Hand Luxury Fashion Data
 
-![img](https://storage.googleapis.com/kaggle-datasets-images/4966281/8357311/f3eb1655a9d8973bd620eb6b8959f38c/dataset-cover.jpg?t=2024-05-08-13-54-52)
 
 https://www.kaggle.com/datasets/justinpakzad/vestiaire-fashion-dataset
 
