@@ -1,0 +1,15 @@
+# Python
+.python-version
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# macOS
+.DS_Store
+
+# Example output directory
+example_output/
