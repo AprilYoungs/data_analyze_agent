@@ -11,5 +11,3 @@ venv/
 # macOS
 .DS_Store
 
-# Example output directory
-example_output/
